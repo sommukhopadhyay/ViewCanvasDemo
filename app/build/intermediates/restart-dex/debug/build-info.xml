@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="889270590844" >
+
+    <task
+        name="javac"
+        duration="4582" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1497" />
+    <task
+        name="verifier"
+        duration="65" />
+
+    <artifact
+        location="/home/som/Workspace/Android/Training/ViewCanvasDemo/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="889270590844" >
+        <artifact
+            location="/home/som/Workspace/Android/Training/ViewCanvasDemo/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
